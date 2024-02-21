@@ -1,0 +1,165 @@
+[
+  {
+    "verb": "思う",
+    "meaning": "to think",
+    "past_plain": "思った",
+    "past_polite": "思いました"
+  },
+  {
+    "verb": "買う",
+    "meaning": "to buy",
+    "past_plain": "買った",
+    "past_polite": "買いました"
+  },
+  {
+    "verb": "持つ",
+    "meaning": "to hold",
+    "past_plain": "持った",
+    "past_polite": "持ちました"
+  },
+  {
+    "verb": "取る",
+    "meaning": "to take",
+    "past_plain": "取った",
+    "past_polite": "取りました"
+  },
+  {
+    "verb": "求める",
+    "meaning": "to request",
+    "past_plain": "求めた",
+    "past_polite": "求めました"
+  },
+  {
+    "verb": "歩く",
+    "meaning": "to walk",
+    "past_plain": "歩いた",
+    "past_polite": "歩きました"
+  },
+  {
+    "verb": "聞く",
+    "meaning": "to listen",
+    "past_plain": "聞いた",
+    "past_polite": "聞きました"
+  },
+  {
+    "verb": "書く",
+    "meaning": "to write",
+    "past_plain": "書いた",
+    "past_polite": "書きました"
+  },
+  {
+    "verb": "泣く",
+    "meaning": "to cry",
+    "past_plain": "泣いた",
+    "past_polite": "泣きました"
+  },
+  {
+    "verb": "飲む",
+    "meaning": "to drink",
+    "past_plain": "飲んだ",
+    "past_polite": "飲みました"
+  },
+  {
+    "verb": "泳ぐ",
+    "meaning": "to swim",
+    "past_plain": "泳いだ",
+    "past_polite": "泳ぎました"
+  },
+  {
+    "verb": "遊ぶ",
+    "meaning": "to play",
+    "past_plain": "遊んだ",
+    "past_polite": "遊びました"
+  },
+  {
+    "verb": "怒る",
+    "meaning": "to get angry",
+    "past_plain": "怒った",
+    "past_polite": "怒りました"
+  },
+  {
+    "verb": "嗅ぐ",
+    "meaning": "to smell",
+    "past_plain": "嗅いだ",
+    "past_polite": "嗅ぎました"
+  },
+  {
+    "verb": "奪う",
+    "meaning": "to rob",
+    "past_plain": "奪った",
+    "past_polite": "奪いました"
+  },
+  {
+    "verb": "話す",
+    "meaning": "to speak",
+    "past_plain": "話した",
+    "past_polite": "話しました"
+  },
+  {
+    "verb": "教える",
+    "meaning": "to teach",
+    "past_plain": "教えた",
+    "past_polite": "教えました"
+  },
+  {
+    "verb": "立つ",
+    "meaning": "to stand",
+    "past_plain": "立った",
+    "past_polite": "立ちました"
+  },
+  {
+    "verb": "忘れる",
+    "meaning": "to forget",
+    "past_plain": "忘れた",
+    "past_polite": "忘れました"
+  },
+  {
+    "verb": "貸す",
+    "meaning": "to lend",
+    "past_plain": "貸した",
+    "past_polite": "貸しました"
+  },
+  {
+    "verb": "勝つ",
+    "meaning": "to win",
+    "past_plain": "勝った",
+    "past_polite": "勝ちました"
+  },
+  {
+    "verb": "打つ",
+    "meaning": "to hit",
+    "past_plain": "打った",
+    "past_polite": "打ちました"
+  },
+  {
+    "verb": "会う",
+    "meaning": "to meet",
+    "past_plain": "会った",
+    "past_polite": "会いました"
+  },
+  {
+    "verb": "死ぬ",
+    "meaning": "to die",
+    "past_plain": "死んだ",
+    "past_polite": "死にました"
+  },
+  {
+    "verb": "読む",
+    "meaning": "to read",
+    "past_plain": "読んだ",
+    "past_polite": "読みました"
+  },
+  {
+    "verb": "呼ぶ",
+    "meaning": "to call",
+    "past_plain": "呼んだ",
+    "past_polite": "呼びました"
+  },
+  {
+    "verb": "休む",
+    "meaning": "to rest",
+    "past_plain": "休んだ",
+    "past_polite": "休みました"
+  }
+]
+
