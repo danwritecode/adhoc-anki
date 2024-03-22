@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What does OSI stand for?",
+    "answers": [
+      "Open Systems Interconnection",
+      "Operating System Interface",
+      "Optical Service Implementation",
+      "Organizational Security Infrastructure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "How many layers are in the OSI model?",
+    "answers": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for converting data into electrical or optical signals?",
+    "answers": [
+      "Physical layer",
+      "Data Link layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for error-free delivery of data frames between nodes?",
+    "answers": [
+      "Data Link layer",
+      "Physical layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for routing and forwarding data packets?",
+    "answers": [
+      "Network layer",
+      "Data Link layer",
+      "Transport layer",
+      "Session layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for end-to-end delivery of data segments?",
+    "answers": [
+      "Transport layer",
+      "Network layer",
+      "Session layer",
+      "Presentation layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for establishing, maintaining, and terminating sessions?",
+    "answers": [
+      "Session layer",
+      "Transport layer",
+      "Presentation layer",
+      "Application layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for data formatting, encryption, and compression?",
+    "answers": [
+      "Presentation layer",
+      "Session layer",
+      "Application layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer provides services directly to the user?",
+    "answers": [
+      "Application layer",
+      "Presentation layer",
+      "Session layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer uses MAC addresses for addressing?",
+    "answers": [
+      "Data Link layer",
+      "Physical layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer uses IP addresses for addressing?",
+    "answers": [
+      "Network layer",
+      "Data Link layer",
+      "Transport layer",
+      "Session layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer uses port numbers for addressing?",
+    "answers": [
+      "Transport layer",
+      "Network layer",
+      "Session layer",
+      "Presentation layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for flow control and error control?",
+    "answers": [
+      "Transport layer",
+      "Data Link layer",
+      "Network layer",
+      "Physical layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for data compression and encryption?",
+    "answers": [
+      "Presentation layer",
+      "Session layer",
+      "Application layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for logical addressing and routing?",
+    "answers": [
+      "Network layer",
+      "Data Link layer",
+      "Transport layer",
+      "Physical layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for physical addressing?",
+    "answers": [
+      "Data Link layer",
+      "Physical layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for bit synchronization?",
+    "answers": [
+      "Physical layer",
+      "Data Link layer",
+      "Network layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for multiplexing and demultiplexing?",
+    "answers": [
+      "Transport layer",
+      "Network layer",
+      "Data Link layer",
+      "Physical layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for dialog control?",
+    "answers": [
+      "Session layer",
+      "Transport layer",
+      "Presentation layer",
+      "Application layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which layer is responsible for providing a user interface?",
+    "answers": [
+      "Application layer",
+      "Presentation layer",
+      "Session layer",
+      "Transport layer"
+    ],
+    "answer_index": 0
+  }
+]

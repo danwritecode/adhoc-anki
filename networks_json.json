@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "What are the two main network models?",
+    "answers": [
+      "TCP/IP and OSI",
+      "HTTP and FTP",
+      "Ethernet and Wi-Fi",
+      "LAN and WAN"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What does the acronym OSI stand for?",
+    "answers": [
+      "Open Systems Interconnection",
+      "Operating System Interface",
+      "Optical Service Interface",
+      "Open Source Initiative"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What are some common types of network media?",
+    "answers": [
+      "Coaxial cable, fiber optic cable, and twisted pair cable",
+      "USB cable, HDMI cable, and power cord",
+      "Ethernet cable, phone line, and serial cable",
+      "Wireless, satellite, and infrared"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a network switch?",
+    "answers": [
+      "To connect multiple devices and forward data between them",
+      "To convert digital signals to analog signals",
+      "To provide wireless access to a network",
+      "To act as a firewall and block unauthorized access"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What command is used to test connectivity between two network devices?",
+    "answers": [
+      "ping",
+      "traceroute",
+      "ipconfig",
+      "netstat"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the maximum data transfer speed of a 100BASE-TX Ethernet connection?",
+    "answers": [
+      "100 Mbps",
+      "10 Mbps",
+      "1 Gbps",
+      "10 Gbps"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a Personal Area Network (PAN)?",
+    "answers": [
+      "A network that connects devices within a person's reach",
+      "A network that connects devices within a building",
+      "A network that connects devices within a city",
+      "A network that connects devices across the globe"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the most common network topology in modern networks?",
+    "answers": [
+      "Star",
+      "Bus",
+      "Ring",
+      "Mesh"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a client-server network architecture?",
+    "answers": [
+      "A network where clients request resources from a central server",
+      "A network where all devices have equal responsibilities",
+      "A network where devices communicate directly with each other",
+      "A network where devices are connected in a ring"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is virtualization?",
+    "answers": [
+      "Creating virtual versions of hardware, software, or network resources",
+      "Connecting multiple networks together",
+      "Encrypting data transmitted over a network",
+      "Monitoring network traffic for security threats"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the main advantage of cloud computing?",
+    "answers": [
+      "Scalability and flexibility",
+      "Improved security",
+      "Faster data transfer speeds",
+      "Lower hardware costs"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What are the three main categories of network security threats?",
+    "answers": [
+      "Confidentiality, integrity, and availability",
+      "Viruses, worms, and Trojans",
+      "Phishing, spoofing, and sniffing",
+      "Denial of service, man-in-the-middle, and brute force attacks"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What does the CIA triad stand for in information security?",
+    "answers": [
+      "Confidentiality, Integrity, and Availability",
+      "Control, Identification, and Authentication",
+      "Cryptography, Infrastructure, and Authorization",
+      "Compliance, Incident response, and Auditing"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "answers": [
+      "To control and monitor incoming and outgoing network traffic",
+      "To encrypt data transmitted over a network",
+      "To detect and remove malware from a network",
+      "To provide remote access to a network"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between an IDS and an IPS?",
+    "answers": [
+      "An IDS detects threats, while an IPS can also prevent them",
+      "An IDS is hardware-based, while an IPS is software-based",
+      "An IDS is used in small networks, while an IPS is used in large networks",
+      "An IDS monitors incoming traffic, while an IPS monitors outgoing traffic"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which OSI layer is responsible for encryption?",
+    "answers": [
+      "Presentation layer",
+      "Session layer",
+      "Transport layer",
+      "Network layer"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of the SSL/TLS protocol?",
+    "answers": [
+      "To provide secure communication over the internet",
+      "To convert domain names to IP addresses",
+      "To route data packets between networks",
+      "To control the flow of data between devices"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between symmetric and asymmetric encryption?",
+    "answers": [
+      "Symmetric uses the same key for encryption and decryption, while asymmetric uses different keys",
+      "Symmetric is faster than asymmetric encryption",
+      "Asymmetric is more secure than symmetric encryption",
+      "Symmetric is used for digital signatures, while asymmetric is used for data encryption"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a public key infrastructure (PKI)?",
+    "answers": [
+      "A system for managing digital certificates and public-key encryption",
+      "A method for encrypting data using a shared secret key",
+      "A protocol for securely exchanging keys over a public network",
+      "A technique for hiding data within other data"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a virtual private network (VPN)?",
+    "answers": [
+      "To create a secure, encrypted connection over a less secure network",
+      "To connect multiple physical networks into a single logical network",
+      "To provide remote access to a company's internal network",
+      "To protect against denial-of-service attacks"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a public and private cloud?",
+    "answers": [
+      "A public cloud is owned and operated by a third-party provider, while a private cloud is owned and operated by a single organization",
+      "A public cloud is more secure than a private cloud",
+      "A private cloud is more scalable than a public cloud",
+      "A public cloud is used for sensitive data, while a private cloud is used for general computing resources"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security group in cloud computing?",
+    "answers": [
+      "To act as a virtual firewall for controlling inbound and outbound traffic",
+      "To encrypt data stored in the cloud",
+      "To manage user authentication and access control",
+      "To monitor cloud resources for security threats"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the main security concern with using public Wi-Fi networks?",
+    "answers": [
+      "Lack of encryption, allowing attackers to intercept data",
+      "Slow connection speeds",
+      "Limited range and coverage",
+      "Interference from other wireless devices"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of the WPA2 protocol in wireless security?",
+    "answers": [
+      "To encrypt data transmitted over a wireless network",
+      "To authenticate users connecting to a wireless network",
+      "To detect and prevent unauthorized access to a wireless network",
+      "To extend the range of a wireless network"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is two-factor authentication (2FA)?",
+    "answers": [
+      "A method that requires users to provide two forms of identification to access a system",
+      "A technique for encrypting data using two different encryption algorithms",
+      "A protocol for securely transmitting data between two devices",
+      "A system for managing user permissions and access control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the principle of least privilege?",
+    "answers": [
+      "Giving users only the permissions they need to perform their job functions",
+      "Requiring users to change their passwords frequently",
+      "Monitoring user activity for suspicious behavior",
+      "Encrypting all data stored on a system"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of network segmentation?",
+    "answers": [
+      "To divide a network into smaller, isolated subnetworks",
+      "To increase the speed of data transmission",
+      "To provide redundancy in case of device failure",
+      "To enable remote access to a network"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is port security?",
+    "answers": [
+      "A technique for restricting access to switch ports based on MAC addresses",
+      "A method for encrypting data transmitted through a specific port",
+      "A system for monitoring network traffic on a specific port",
+      "A protocol for securing remote access to network devices"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a hub and a switch?",
+    "answers": [
+      "A switch can create separate collision domains, while a hub cannot",
+      "A hub is more intelligent than a switch",
+      "A switch is used in WANs, while a hub is used in LANs",
+      "A hub can handle more connected devices than a switch"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a VLAN?",
+    "answers": [
+      "A logical subnetwork that can span multiple physical switches",
+      "A type of firewall that filters traffic based on IP addresses",
+      "A device that converts analog signals to digital signals",
+      "A protocol for securely accessing network devices remotely"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of NAT?",
+    "answers": [
+      "To allow multiple devices to share a single public IP address",
+      "To encrypt data transmitted over a network",
+      "To convert domain names to IP addresses",
+      "To prioritize network traffic based on importance"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a DMZ in network security?",
+    "answers": [
+      "A subnetwork that acts as a buffer between an internal network and the internet",
+      "A type of firewall that inspects the contents of data packets",
+      "A system for detecting and preventing network intrusions",
+      "A protocol for secure remote access to network devices"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between TCP and UDP?",
+    "answers": [
+      "TCP is connection-oriented and reliable, while UDP is connectionless and unreliable",
+      "UDP is more secure than TCP",
+      "TCP is faster than UDP",
+      "UDP is used for email, while TCP is used for web browsing"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of ARP?",
+    "answers": [
+      "To map IP addresses to MAC addresses",
+      "To encrypt data transmitted over a network",
+      "To route data packets between networks",
+      "To translate domain names to IP addresses"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a router and a switch?",
+    "answers": [
+      "A router operates at Layer 3 (Network), while a switch operates at Layer 2 (Data Link)",
+      "A switch is used to connect networks, while a router is used to connect devices within a network",
+      "A router is more intelligent than a switch",
+      "A switch is used in WANs, while a router is used in LANs"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of DHCP?",
+    "answers": [
+      "To automatically assign IP addresses to devices on a network",
+      "To encrypt data transmitted over a network",
+      "To convert domain names to IP addresses",
+      "To control access to network resources based on user authentication"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a content delivery network (CDN)?",
+    "answers": [
+      "To distribute content to users from servers located geographically close to them",
+      "To encrypt data transmitted over the internet",
+      "To protect against denial-of-service attacks",
+      "To manage user authentication and access control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a botnet?",
+    "answers": [
+      "A network of compromised devices controlled by an attacker",
+      "A type of firewall that filters traffic based on application",
+      "A system for detecting and preventing network intrusions",
+      "A protocol for secure communication over the internet"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a honeypot in network security?",
+    "answers": [
+      "To lure attackers away from legitimate targets and gather information about their tactics",
+      "To encrypt data transmitted over a network",
+      "To manage user authentication and access control",
+      "To scan a network for vulnerabilities and misconfigurations"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between black hat and white hat hackers?",
+    "answers": [
+      "Black hat hackers are malicious, while white hat hackers are ethical and use their skills for good",
+      "White hat hackers are more skilled than black hat hackers",
+      "Black hat hackers only target large corporations, while white hat hackers target small businesses",
+      "White hat hackers use more advanced tools and techniques than black hat hackers"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security information and event management (SIEM) system?",
+    "answers": [
+      "To collect and analyze log data from various sources to detect security threats",
+      "To encrypt data transmitted over a network",
+      "To control access to network resources based on user authentication",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a vulnerability and an exploit?",
+    "answers": [
+      "A vulnerability is a weakness that can be exploited, while an exploit is an attack that takes advantage of a vulnerability",
+      "An exploit is a weakness that can be exploited, while a vulnerability is an attack that takes advantage of an exploit",
+      "A vulnerability is a type of malware, while an exploit is a type of virus",
+      "An exploit is a security measure, while a vulnerability is a way to bypass security measures"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between authentication and authorization?",
+    "answers": [
+      "Authentication verifies identity, while authorization determines access rights",
+      "Authorization verifies identity, while authentication determines access rights",
+      "Authentication and authorization are the same thing",
+      "Authentication is for users, while authorization is for devices"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of role-based access control (RBAC)?",
+    "answers": [
+      "To assign permissions to users based on their job function or role within an organization",
+      "To authenticate users based on their username and password",
+      "To encrypt data transmitted over a network",
+      "To detect and prevent network intrusions"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is multi-factor authentication (MFA)?",
+    "answers": [
+      "An authentication method that requires users to provide multiple forms of identification",
+      "An authentication method that uses only biometric data",
+      "An authentication method that uses only passwords",
+      "An authentication method that uses only physical tokens"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security token?",
+    "answers": [
+      "To provide an additional layer of authentication beyond a username and password",
+      "To encrypt data transmitted over a network",
+      "To scan a network for vulnerabilities and misconfigurations",
+      "To control access to network resources based on MAC addresses"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a password and a passphrase?",
+    "answers": [
+      "A passphrase is a sequence of words, while a password is typically a single word or short string of characters",
+      "A password is more secure than a passphrase",
+      "A passphrase is used for authentication, while a password is used for authorization",
+      "A password is used for single-factor authentication, while a passphrase is used for multi-factor authentication"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a password manager?",
+    "answers": [
+      "To store and manage complex, unique passwords for multiple accounts securely",
+      "To encrypt passwords before they are transmitted over a network",
+      "To enforce password policies, such as minimum length and complexity requirements",
+      "To automatically change passwords on a regular basis"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is single sign-on (SSO)?",
+    "answers": [
+      "An authentication method that allows users to access multiple applications with a single set of credentials",
+      "An authentication method that requires users to sign in separately to each application they use",
+      "An authentication method that uses only biometric data",
+      "An authentication method that uses only physical tokens"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security assertion markup language (SAML)?",
+    "answers": [
+      "To enable single sign-on and facilitate the exchange of authentication and authorization data between parties",
+      "To encrypt data transmitted over a network",
+      "To detect and prevent network intrusions",
+      "To manage user accounts and permissions"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is OAuth?",
+    "answers": [
+      "An open standard for access delegation, commonly used as a way for users to grant access to their information on one website to another website",
+      "A protocol for securing wireless networks",
+      "A method for encrypting data stored in databases",
+      "A system for detecting and preventing network intrusions"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security question in account recovery?",
+    "answers": [
+      "To provide an additional layer of authentication when a user needs to reset their password",
+      "To encrypt the user's password before it is stored in a database",
+      "To determine the user's authorization level and access rights",
+      "To protect against brute-force password guessing attacks"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a password salt?",
+    "answers": [
+      "To add random data to a password before it is hashed, making it more difficult to crack",
+      "To encrypt a password before it is transmitted over a network",
+      "To compress a password to save storage space in a database",
+      "To check if a password meets complexity requirements"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a password hash and a password salt?",
+    "answers": [
+      "A hash is the result of a one-way function applied to a password, while a salt is random data added to the password before hashing",
+      "A salt is the result of a one-way function applied to a password, while a hash is random data added to the password before salting",
+      "A hash is used for authentication, while a salt is used for authorization",
+      "A salt is used to encrypt passwords, while a hash is used to decrypt passwords"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of key stretching in password hashing?",
+    "answers": [
+      "To make password hashing more computationally expensive, thus slowing down brute-force attacks",
+      "To add random data to a password before it is hashed",
+      "To compress a password to save storage space in a database",
+      "To check if a password meets complexity requirements"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is two-step verification?",
+    "answers": [
+      "An authentication method that requires users to provide two forms of identification, typically something they know (like a password) and something they have (like a smartphone)",
+      "An authentication method that uses only biometric data",
+      "An authentication method that uses only passwords",
+      "An authentication method that uses only physical tokens"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a captcha?",
+    "answers": [
+      "A challenge-response test used to determine whether a user is human or an automated bot",
+      "A type of password that is automatically generated and difficult to guess",
+      "A security question used for account recovery",
+      "A method for encrypting passwords before they are stored in a database"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a password blacklist?",
+    "answers": [
+      "To prevent users from choosing common, easily guessed passwords",
+      "To store a list of authorized users and their passwords",
+      "To encrypt passwords before they are transmitted over a network",
+      "To add random data to passwords before they are hashed"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of password entropy?",
+    "answers": [
+      "To measure the strength and unpredictability of a password",
+      "To encrypt a password before it is stored in a database",
+      "To compress a password to save storage space",
+      "To add random data to a password before it is hashed"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is social engineering?",
+    "answers": [
+      "The psychological manipulation of people into performing actions or divulging confidential information",
+      "The process of designing and implementing security measures for a network",
+      "The practice of encrypting data to protect it from unauthorized access",
+      "The act of exploiting vulnerabilities in software or systems to gain unauthorized access"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a phishing attack?",
+    "answers": [
+      "An attempt to trick individuals into disclosing sensitive information or installing malware by masquerading as a trustworthy entity",
+      "An attack that exploits vulnerabilities in network protocols",
+      "An attack that involves physically accessing a device or system without authorization",
+      "An attack that uses social engineering techniques to gain unauthorized access to a building or secured area"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is multi-factor authentication?",
+    "answers": [
+      "An authentication method that requires users to provide multiple forms of identification",
+      "An authentication method that uses only passwords",
+      "An authentication method that uses only biometric data",
+      "An authentication method that uses only physical tokens"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the principle of defense in depth?",
+    "answers": [
+      "The practice of using multiple, layered security controls to protect against threats",
+      "The practice of using a single, strong security control to protect against all threats",
+      "The practice of relying solely on perimeter defenses to protect a network",
+      "The practice of using only software-based security controls"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a demilitarized zone (DMZ) in network security?",
+    "answers": [
+      "A physical or logical subnetwork that contains an organization's external-facing services, accessible to an untrusted network",
+      "A type of firewall that filters traffic based on application layer protocols",
+      "A system for detecting and preventing network intrusions",
+      "A virtual private network that allows remote users to securely access an organization's internal network"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of network access control (NAC)?",
+    "answers": [
+      "To enforce security policies on devices before granting them access to a network",
+      "To encrypt data transmitted over a network",
+      "To translate private IP addresses to public IP addresses",
+      "To prioritize network traffic based on importance"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is a bastion host?",
+    "answers": [
+      "A special-purpose computer on a network specifically designed and configured to withstand attacks",
+      "A type of malware that encrypts a victim's files and demands a ransom payment",
+      "A security vulnerability in software or hardware that can be exploited by attackers",
+      "A physical device used to secure a single computer or a network of computers"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of security information and event management (SIEM)?",
+    "answers": [
+      "To provide real-time analysis of security alerts generated by applications and network hardware",
+      "To encrypt data transmitted over a network",
+      "To control access to network resources based on user authentication",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security policy and a security procedure?",
+    "answers": [
+      "A security policy is a high-level statement of security objectives, while a security procedure is a step-by-step guide to implementing a policy",
+      "A security procedure is a high-level statement of security objectives, while a security policy is a step-by-step guide to implementing a procedure",
+      "A security policy is a technical control, while a security procedure is an administrative control",
+      "A security procedure is a technical control, while a security policy is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of security awareness training?",
+    "answers": [
+      "To educate employees about security risks and best practices to help prevent security incidents",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between compliance and security?",
+    "answers": [
+      "Compliance means following rules and regulations, while security means protecting against threats and risks",
+      "Security means following rules and regulations, while compliance means protecting against threats and risks",
+      "Compliance and security are the same thing",
+      "Compliance is a technical control, while security is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security audit?",
+    "answers": [
+      "To assess an organization's compliance with security policies, procedures, and standards",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a risk assessment and a vulnerability assessment?",
+    "answers": [
+      "A risk assessment identifies and prioritizes potential threats, while a vulnerability assessment identifies specific weaknesses that could be exploited",
+      "A vulnerability assessment identifies and prioritizes potential threats, while a risk assessment identifies specific weaknesses that could be exploited",
+      "A risk assessment is a technical control, while a vulnerability assessment is an administrative control",
+      "A vulnerability assessment is a technical control, while a risk assessment is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a business continuity plan (BCP)?",
+    "answers": [
+      "To ensure that an organization can continue to operate in the event of a disruption or disaster",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a disaster recovery plan (DRP) and a business continuity plan (BCP)?",
+    "answers": [
+      "A DRP focuses on restoring IT systems and data, while a BCP addresses the continuity of the entire organization",
+      "A BCP focuses on restoring IT systems and data, while a DRP addresses the continuity of the entire organization",
+      "A DRP is a technical control, while a BCP is an administrative control",
+      "A BCP is a technical control, while a DRP is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security operations center (SOC)?",
+    "answers": [
+      "To monitor, detect, and respond to security incidents and vulnerabilities",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To train employees on security best practices and policies",
+      "To conduct security audits and risk assessments"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between incident response and forensics?",
+    "answers": [
+      "Incident response is the immediate action taken to mitigate an attack, while forensics is the analysis of evidence after an incident",
+      "Forensics is the immediate action taken to mitigate an attack, while incident response is the analysis of evidence after an incident",
+      "Incident response is a proactive measure, while forensics is a reactive measure",
+      "Forensics is a proactive measure, while incident response is a reactive measure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security information and event management (SIEM) system?",
+    "answers": [
+      "To collect and analyze log data from various sources to detect and respond to security incidents",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To train employees on security best practices and policies",
+      "To conduct security audits and risk assessments"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security framework and a security standard?",
+    "answers": [
+      "A security framework provides a general set of guidelines and best practices, while a security standard provides specific requirements and controls",
+      "A security standard provides a general set of guidelines and best practices, while a security framework provides specific requirements and controls",
+      "A security framework is a technical control, while a security standard is an administrative control",
+      "A security standard is a technical control, while a security framework is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a penetration test and a vulnerability scan?",
+    "answers": [
+      "A penetration test actively exploits vulnerabilities to determine the impact of an attack, while a vulnerability scan only identifies potential weaknesses",
+      "A vulnerability scan actively exploits vulnerabilities to determine the impact of an attack, while a penetration test only identifies potential weaknesses",
+      "A penetration test is an automated process, while a vulnerability scan is performed manually",
+      "A vulnerability scan is an automated process, while a penetration test is performed manually"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security orchestration, automation, and response (SOAR) platform?",
+    "answers": [
+      "To automate and streamline security operations, such as threat detection, investigation, and response",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To train employees on security best practices and policies",
+      "To conduct security audits and risk assessments"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security control and a security countermeasure?",
+    "answers": [
+      "A security control is a safeguard designed to mitigate a risk, while a security countermeasure is an action taken to respond to a security incident",
+      "A security countermeasure is a safeguard designed to mitigate a risk, while a security control is an action taken to respond to a security incident",
+      "A security control is a technical solution, while a security countermeasure is an administrative solution",
+      "A security countermeasure is a technical solution, while a security control is an administrative solution"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of threat modeling?",
+    "answers": [
+      "To identify potential threats and vulnerabilities in a system and prioritize security controls based on risk",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security architecture and a security design?",
+    "answers": [
+      "A security architecture provides a high-level overview of an organization's security controls, while a security design provides specific implementation details",
+      "A security design provides a high-level overview of an organization's security controls, while a security architecture provides specific implementation details",
+      "A security architecture is a technical control, while a security design is an administrative control",
+      "A security design is a technical control, while a security architecture is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security steering committee?",
+    "answers": [
+      "To provide oversight and guidance for an organization's security program",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security policy exception and a security policy waiver?",
+    "answers": [
+      "An exception is a temporary deviation from a policy, while a waiver is a permanent exemption from a policy requirement",
+      "A waiver is a temporary deviation from a policy, while an exception is a permanent exemption from a policy requirement",
+      "An exception is a technical control, while a waiver is an administrative control",
+      "A waiver is a technical control, while an exception is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security metrics program?",
+    "answers": [
+      "To measure the effectiveness of an organization's security controls and identify areas for improvement",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a security incident and a security event?",
+    "answers": [
+      "A security incident is a confirmed threat or attack, while a security event is any observable occurrence in a system or network",
+      "A security event is a confirmed threat or attack, while a security incident is any observable occurrence in a system or network",
+      "A security incident is a technical issue, while a security event is an administrative issue",
+      "A security event is a technical issue, while a security incident is an administrative issue"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security awareness campaign?",
+    "answers": [
+      "To raise employees' awareness of security risks and promote best practices through engaging content and activities",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between security testing and security auditing?",
+    "answers": [
+      "Security testing involves hands-on evaluation of security controls, while security auditing is a formal review of policies, procedures, and documentation",
+      "Security auditing involves hands-on evaluation of security controls, while security testing is a formal review of policies, procedures, and documentation",
+      "Security testing is a reactive process, while security auditing is a proactive process",
+      "Security auditing is a reactive process, while security testing is a proactive process"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security governance framework?",
+    "answers": [
+      "To define the structure, roles, and responsibilities for managing an organization's security program",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between privacy and confidentiality?",
+    "answers": [
+      "Privacy refers to the right to control one's personal information, while confidentiality refers to the duty to protect sensitive information from unauthorized access",
+      "Confidentiality refers to the right to control one's personal information, while privacy refers to the duty to protect sensitive information from unauthorized access",
+      "Privacy is a legal requirement, while confidentiality is an ethical obligation",
+      "Confidentiality is a legal requirement, while privacy is an ethical obligation"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a data classification policy?",
+    "answers": [
+      "To categorize an organization's data based on its sensitivity and criticality, and define appropriate levels of protection",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between anonymization and pseudonymization?",
+    "answers": [
+      "Anonymization irreversibly removes personally identifiable information, while pseudonymization replaces it with a reversible placeholder",
+      "Pseudonymization irreversibly removes personally identifiable information, while anonymization replaces it with a reversible placeholder",
+      "Anonymization is a technical control, while pseudonymization is an administrative control",
+      "Pseudonymization is a technical control, while anonymization is an administrative control"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a data retention policy?",
+    "answers": [
+      "To define how long an organization should keep different types of data and when it should be securely destroyed",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a data processor and a data controller?",
+    "answers": [
+      "A data controller determines the purposes and means of processing personal data, while a data processor processes personal data on behalf of the controller",
+      "A data processor determines the purposes and means of processing personal data, while a data controller processes personal data on behalf of the processor",
+      "A data processor is liable for data breaches, while a data controller is not",
+      "A data controller is liable for data breaches, while a data processor is not"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a data protection impact assessment (DPIA)?",
+    "answers": [
+      "To identify and mitigate the data protection risks associated with a new project, system, or process",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between a data subject access request (DSAR) and a freedom of information (FOI) request?",
+    "answers": [
+      "A DSAR allows individuals to request access to their personal data, while an FOI request allows individuals to request access to public records",
+      "An FOI request allows individuals to request access to their personal data, while a DSAR allows individuals to request access to public records",
+      "A DSAR is a legal requirement under GDPR, while an FOI request is voluntary",
+      "An FOI request is a legal requirement under GDPR, while a DSAR is voluntary"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security champions program?",
+    "answers": [
+      "To identify and empower employees who will promote security best practices within their teams or departments",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the difference between security architecture and security engineering?",
+    "answers": [
+      "Security architecture focuses on the high-level design of security controls, while security engineering focuses on the implementation and testing of those controls",
+      "Security engineering focuses on the high-level design of security controls, while security architecture focuses on the implementation and testing of those controls",
+      "Security architecture is a proactive process, while security engineering is a reactive process",
+      "Security engineering is a proactive process, while security architecture is a reactive process"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the purpose of a security scorecard?",
+    "answers": [
+      "To provide a high-level overview of an organization's security posture and benchmark it against industry standards or peers",
+      "To encrypt sensitive data to protect it from unauthorized access",
+      "To monitor network traffic for signs of malicious activity",
+      "To automatically patch vulnerabilities in software and systems"
+    ],
+    "answer_index": 0
+  }
+]

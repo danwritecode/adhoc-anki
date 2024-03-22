@@ -24,6 +24,7 @@ dependencies = [
  "anyhow",
  "async-openai",
  "html_parser",
+ "rand",
  "reqwest",
  "serde",
  "serde_json",
